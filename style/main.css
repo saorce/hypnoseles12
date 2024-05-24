@@ -1,0 +1,56 @@
+body{
+    background-color: darkred;
+    color:bisque
+}
+
+/*header*/
+header{
+    text-align: center;
+    background-color: rgb(230, 219, 219);
+    color:rgb(36, 19, 194);
+        width: 8cm;
+        height: 1cm;
+}
+
+/*table*/
+
+td{
+    text-align: center;
+    background-color: aquamarine;
+    color: blue;
+    padding: 15;
+    border: 1px solid black
+
+}
+#rood{
+    color:black;
+    background-color: red;
+}
+#oranje{
+    color: black;
+    background-color: orange
+}
+#geel{
+    color: black;
+    background-color:yellow ;
+}
+#groen{
+    color: black;
+    background-color: green;
+}
+#blauw{
+    color: black;
+    background-color: blue;
+}
+#indigo{
+    color: black;
+    background-color: indigo;
+}
+#violet{
+    color: black;
+    background-color: violet;
+}
+#zwart{
+    color: white;
+    background-color: black;
+}
